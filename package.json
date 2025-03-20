@@ -1,0 +1,33 @@
+{
+  "name": "my-tech-blog",
+  "version": "1.0.0",
+  "description": "A simple blog to share knowledge about creating an OS with AI.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "blog",
+    "nextjs",
+    "typescript",
+    "ai",
+    "os"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "gray-matter": "^4.0.3",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.0"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest"
+  }
+}
